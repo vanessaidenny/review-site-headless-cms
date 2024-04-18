@@ -20,6 +20,8 @@
     - [`start`](#start)
     - [`build`](#build)
 
+</br>
+
 ## Activity Description
 
 ### Objective
@@ -30,10 +32,9 @@ Book Review
 
 ### Frameworks and Tools Used
 - Backend: Strapi / Render
-- Frontend: Nuxt
+- Frontend: Nuxt / Netlify
 - JS: VueJS
 - CSS: Bootstrap
-- Deploy: Netlify
 
 </br>
 
