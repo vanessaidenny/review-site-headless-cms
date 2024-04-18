@@ -30,8 +30,8 @@ Create a review site that will contains a list of reviews using headless CMS and
 ### Review Site Type
 Book Review
 
-### Frameworks and Tools Used
-- Backend: Strapi / Render
+### Frameworks, Tools and Services Used
+- Backend - API: Strapi / Render / PostgreSQL / Neon / Cloudinary
 - Frontend: Nuxt / Netlify
 - JS: VueJS
 - CSS: Bootstrap
