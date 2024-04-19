@@ -1,14 +1,9 @@
 # 📖 Book Review Site
 
-#### Team Members:
-- Jessielorrai Mbekoudjuatio
-- Vanessa Isabela Denny
-- Yee Ting Lau
-- Yuka Ishii
-
 </br>
 
 ## Table of Contents
+
 - [📖 Book Review Site](#-book-review-site)
       - [Team Members:](#team-members)
   - [Table of Contents](#table-of-contents)
@@ -27,14 +22,20 @@
 ### Objective
 Create a review site that will contains a list of reviews using headless CMS and frontend parts.
 
+#### Team Members:
+- Jessie Lorraine Mbekou Djuatio
+- Vanessa Isabela Denny
+- Yee Ting Lau
+- Yuka Ishii
+  
 ### Review Site Type
 Book Review
 
-### Frameworks, Tools and Services Used
-- Backend - API: Strapi / Render / PostgreSQL / Neon / Cloudinary
+### Frameworks and Tools Used
+- Headless CMS: Strapi / Render / PostgreSQL / Neon / Cloudinary
 - Frontend: Nuxt / Netlify
 - JS: VueJS
-- CSS: Bootstrap
+- CSS & Components: Bootstrap / Nuxt Rating
 
 </br>
 
